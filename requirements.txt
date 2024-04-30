@@ -1,0 +1,57 @@
+opencv-python
+ultralytics
+numpy
+easyocr
+
+Danny Ma's SQL Challenge 3 - Foodie-Fi 🍐
+
+Hello Data Fam!👋
+
+Just completed Case Study 3 in the 8 Week SQL Challenge by Danny Ma!
+
+💪 Challenge :
+
+This case study is loaded with numerous questions, categorized by focus areas:
+
+🔸Customer Journey
+🔸Data Analysis
+🔸Payments Table
+
+✨ Concepts covered :
+
+🔹Aggregated Functions: SUM, COUNT, AVERAGE
+🔹Filtering Rows: WHERE
+🔹Combining Tables: JOINS
+🔹Grouping Results: GROUP BY
+🔹Sorting Results: ORDER BY
+🔹Sub Query
+🔹Rank Functions
+🔹Time Functions
+
+🔗 Links:
+
+- Challenge website:
+[https://lnkd.in/g66YEt7h
+]
+
+- GitHub Solutions Repository :
+[https://lnkd.in/gf-Q8jnU
+]
+
+- Challenge 2 :
+[https://lnkd.in/ggdGHWfN
+]
+
+🛠 Tools :
+
+- MySQL: For comprehensive data analysis.
+
+- Canva: For presenting insights.
+
+- GitHub: For code documentation.
+
+🌟 Encouraging everyone to join this SQL challenge; it's a great test for your SQL skills!
+
+#sql #sqlqueries #sqlskills #upskilling
+#8weekschallenge #8weeksqlchallenge
+#datawithdanny #learningandgrowing
